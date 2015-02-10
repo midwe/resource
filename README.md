@@ -1,0 +1,2 @@
+# resource
+Common network resource
